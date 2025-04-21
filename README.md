@@ -125,6 +125,25 @@ If you're testing food trucks in Charlotte, you can simulate GPS using Chrome De
 
 ---
 
+### 📸 Screenshots
+
+| Screen | Description |
+|--------|-------------|
+| ![Landing Page](screenshots/Screenshot-1.jpeg) | 🧭 **Landing page** where users can search food trucks by distance or name |
+| ![Login Page](screenshots/Screenshot-2.jpeg) | 🔐 **Login page** for users and admins |
+| ![Register Page](screenshots/Screenshot-3.jpeg) | 📝 **User registration** screen with basic info |
+| ![Admin Register Truck](screenshots/Screenshot-4.jpeg) | 🧾 **Admin panel** to register a new food truck |
+| ![User Map View](screenshots/Screenshot-5.jpeg) | 🗺️ **User dashboard** with a list of food trucks and Google Map integration |
+| ![Truck Details](screenshots/Screenshot-6.jpeg) | 📋 **Food truck details** with type, hours, and contact info |
+| ![Reviews Section](screenshots/Screenshot-7.jpeg) | ⭐ **Review and rating** section for users |
+| ![Edit Account](screenshots/Screenshot-8.jpeg) | 🔄 **Account management** screen to update user details |
+| ![Truck Marker Manager](screenshots/Screenshot-9.jpeg) | 📍 **Admin view** to manage truck marker on map |
+| ![Live Menu Updates](screenshots/Screenshot-10.jpeg) | 🧾 **Live updates** feature for food truck status or menu |
+| ![Favorites Page](screenshots/Screenshot-11.jpeg) | ❤️ **Favorites page** where users can view and manage their liked food trucks |
+
+
+---
+
 ## 📁 Folder Structure
 
 ```
