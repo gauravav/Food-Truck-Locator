@@ -52,7 +52,7 @@ It contains:
 
 ### 4. Configure Secrets
 
-In `application.properties`:
+In `backend/src/main/resources/application.properties`:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/foodtruck
 spring.datasource.username=YOUR_MYSQL_USERNAME
@@ -63,14 +63,14 @@ spring.datasource.password=YOUR_MYSQL_PASSWORD
 
 ## 🎨 Frontend Setup (React)
 
-### 1. Navigate to the frontend
+### 1. Open frontend
 ```bash
-cd ../frontend
+cd frontend
 ```
 
 ### 2. Install Dependencies
 ```bash
-npm install --legacy-peer-deps
+npm install
 ```
 
 ### 3. Configure Secrets
