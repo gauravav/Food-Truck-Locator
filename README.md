@@ -164,6 +164,6 @@ If you're testing food trucks in Charlotte, you can simulate GPS using Chrome De
 ## 🙋‍♂️ Author
 Made by Gaurav Avula – [gauravavula.com](http://gauravavula.com)
 
-## License
+## 🪪 License
 
 This project is licensed under the [MIT License](LICENSE).
