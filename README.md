@@ -75,9 +75,9 @@ npm install
 
 ### 3. Configure Secrets
 
-In `src/Helper/Helper.js`:
+In `frontend/src/Helper/Helper.js`:
 ```js
-export const url = "http://localhost:8080"; // Backend URL
+export const url = "http://localhost:8080"; // API Base Endpoint
 export const googlemapsapi = "YOUR_GOOGLE_MAPS_API_KEY";
 ```
 
